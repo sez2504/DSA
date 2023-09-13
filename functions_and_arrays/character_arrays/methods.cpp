@@ -1,0 +1,4 @@
+//strcpy
+//strlen
+//strncpy
+//strcmp
